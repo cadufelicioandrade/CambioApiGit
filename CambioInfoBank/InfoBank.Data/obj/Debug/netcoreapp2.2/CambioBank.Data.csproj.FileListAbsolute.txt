@@ -1,0 +1,14 @@
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\bin\Debug\netcoreapp2.2\CambioBank.Data.deps.json
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\bin\Debug\netcoreapp2.2\CambioBank.Data.runtimeconfig.json
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\bin\Debug\netcoreapp2.2\CambioBank.Data.runtimeconfig.dev.json
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\bin\Debug\netcoreapp2.2\CambioBank.Data.dll
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\bin\Debug\netcoreapp2.2\CambioBank.Data.pdb
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\bin\Debug\netcoreapp2.2\CambioBank.Domain.dll
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\bin\Debug\netcoreapp2.2\CambioBank.Domain.pdb
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\obj\Debug\netcoreapp2.2\CambioBank.Data.csprojAssemblyReference.cache
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\obj\Debug\netcoreapp2.2\CambioBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\obj\Debug\netcoreapp2.2\CambioBank.Data.AssemblyInfoInputs.cache
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\obj\Debug\netcoreapp2.2\CambioBank.Data.AssemblyInfo.cs
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\obj\Debug\netcoreapp2.2\CambioBank.Data.csproj.CopyComplete
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\obj\Debug\netcoreapp2.2\CambioBank.Data.dll
+C:\Users\caduf\source\repos\CambioInfoBank\InfoBank.Data\obj\Debug\netcoreapp2.2\CambioBank.Data.pdb

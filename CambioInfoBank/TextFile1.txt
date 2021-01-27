@@ -1,0 +1,1 @@
+1. Com base no modelo acima, escreva um comando SQL que liste a quantidade de processos por Status com sua descrição.
